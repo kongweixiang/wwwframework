@@ -130,10 +130,20 @@
             <version>6.0.9.Final</version>
         </dependency>
         <!--dubbo-->
-        <dependency>
+      <!--  <dependency>
             <groupId>org.apache.zookeeper</groupId>
             <artifactId>zookeeper</artifactId>
             <version>3.3.1</version>
+        </dependency>-->
+        <dependency>
+            <groupId>org.apache.curator</groupId>
+            <artifactId>curator-framework</artifactId>
+            <version>4.0.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.netflix.curator</groupId>
+            <artifactId>curator-framework</artifactId>
+            <version>1.1.10</version>
         </dependency>
         <dependency>
             <groupId>com.alibaba</groupId>
