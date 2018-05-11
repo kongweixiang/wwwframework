@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gateway_servlet:war">
+    <output-path>$PROJECT_DIR$/gateway/gateway_servlet/target</output-path>
+    <root id="archive" name="gateway_servlet.war">
+      <element id="artifact" artifact-name="gateway_servlet:war exploded" />
+    </root>
+  </artifact>
+</component>

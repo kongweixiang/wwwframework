@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app-service/app-service.iml" filepath="$PROJECT_DIR$/app-service/app-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/common/common.iml" filepath="$PROJECT_DIR$/gateway/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway_servlet/gateway_servlet.iml" filepath="$PROJECT_DIR$/gateway/gateway_servlet/gateway_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway_spring/gateway_spring.iml" filepath="$PROJECT_DIR$/gateway/gateway_spring/gateway_spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_api/service-api.iml" filepath="$PROJECT_DIR$/service_api/service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-service/service-common/service-common.iml" filepath="$PROJECT_DIR$/app-service/service-common/service-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-service/service1/service1.iml" filepath="$PROJECT_DIR$/app-service/service1/service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/user_login/user_login.iml" filepath="$PROJECT_DIR$/gateway/user_login/user_login.iml" />
+    </modules>
+  </component>
+</project>
