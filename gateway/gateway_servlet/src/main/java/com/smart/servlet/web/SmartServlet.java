@@ -81,6 +81,7 @@ public class SmartServlet extends HttpServlet{
             logger.debug("request uri " + requestURI + " is invalid");
             return;
         }
+        //三级域名目录
         String cmd = matcher.group(3);
         context.setAttribute("cmd", cmd);
 
